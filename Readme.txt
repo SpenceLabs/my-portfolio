@@ -1,6 +1,3 @@
-Thanks for downloading this template!
 
-Template Name: Personal
-Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Explore the Spence Labs portfolio to see our cutting-edge projects and the diverse range of services we offer. Witness how we transform ideas into exceptional digital experiences!
+
